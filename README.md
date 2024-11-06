@@ -28,8 +28,7 @@ The project consists of the following components:
 * Data Markers: Each earthquake is plotted on the map using a circle marker, with:
   * Size: Based on earthquake magnitude.
   * Color: Based on earthquake depth, with darker colors indicating greater depths.
-* Popups: Clicking on a marker shows a popup with details, including
-
+* Popups: Clicking on a marker shows a popup with details
 
 **References**
 
